@@ -70,7 +70,7 @@ table.footnote td p     { margin: 0; }
 table.footnote td p + p { margin-top: 15px; }
 
 /* blog overview */
-div.entry-overview                  { margin: 25px 122px 25px 102px; }
+div.entry-overview                  { margin: 25px 52px 25px 52px; }
 div.entry-overview h1,
 div.entry-overview div.summary,
 div.entry-overview div.summary p    { display: inline; line-height: 25px; }
