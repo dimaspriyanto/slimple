@@ -24,8 +24,10 @@
           <li><a href="/">blog</a>
           </li><li><a href="/archive/">archive</a>
           </li><li><a href="/tags/">tags</a>
-          </li><li><a href="/portofolio/">projects</a>
-          </li><li><a href="/thoughts/">talks</a>
+          <!--
+          </li><li><a href="/portofolio/">portofolio</a>
+          </li><li><a href="/thoughts/">thoughts</a>
+          -->
           </li><li><a href="/about/">about</a>
         </li></ul>
       </div>

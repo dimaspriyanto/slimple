@@ -7,7 +7,7 @@
       <div class="date"><?php the_time('F j, Y'); ?></div>
       <div class="detail">
         <h1><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
-        <div class="summary"><?php the_content(''); ?></div>
+        <div class="summary"><?php the_excerpt(); ?></div>
       </div>
     </div>
   <?php endwhile; ?>

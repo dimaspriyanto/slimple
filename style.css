@@ -28,7 +28,7 @@ h2                          { font-size: 36px; line-height: 40px; }
 /* layout elements */
 div.container               { width: 740px; margin: 48px auto; padding: 0; }
 div.header                  { float: left; }
-div.header a                { font-weight: bold; text-decoration: none; }
+div.header a                { font-weight: bold; font-size: larger; text-decoration: none; }
 div.header span             { font-style: italic; font-size: smaller; }
 div.navigation              { float: right; }
 div.header, div.navigation  { height: 25px; margin-bottom: 42px; }
