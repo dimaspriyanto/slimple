@@ -16,6 +16,7 @@
 
   <div class="pagination">
     <?php next_posts_link('&larr; older posts'); ?>
+    &nbsp;&nbsp;
     <?php previous_posts_link('newer posts &rarr;'); ?>
   </div>
 <?php else : ?>
