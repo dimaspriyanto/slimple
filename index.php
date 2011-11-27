@@ -15,8 +15,8 @@
   <?php endwhile; ?>
 
   <div class="pagination">
-    <?php next_posts_link('Older posts'); ?>
-    <?php previous_posts_link('Newer posts'); ?>
+    <?php next_posts_link('&larr; older posts'); ?>
+    <?php previous_posts_link('newer posts &rarr;'); ?>
   </div>
 <?php else : ?>
   <h2>Nothing Found</h2>
